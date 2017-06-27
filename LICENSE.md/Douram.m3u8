@@ -1,0 +1,489 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ HD" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo RJ HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/170.ts
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo RJ
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/1448.ts
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="Globo SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo SP
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/1493.ts
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="http://i.imgur.com/qnNMqsD.png" group-title="Canais Abertos",RBS TV Porto Alegre
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/43.ts
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="TV Tem Sorocaba" tvg-logo="http://i.imgur.com/NvcE4Kx.png" group-title="Canais Abertos",TV Tem Sorocaba
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/1447.ts
+#EXTINF:-1 tvg-id="Globo Brasília" tvg-name="Globo Brasilia" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo Brasilia
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/1446.ts
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo Minas" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo Minas
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/1443.ts
+#EXTINF:-1 tvg-id="Globo Nordeste" tvg-name="TV Tem Bauru" tvg-logo="http://i.imgur.com/NvcE4Kx.png" group-title="Canais Abertos",TV Tem Bauru
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/1444.ts
+#EXTINF:-1 tvg-id="TVGloboPortugal.pt" tvg-name="Globo Portugal" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",Globo Portugal
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/448.ts
+#EXTINF:-1 tvg-id="GloboPremium.pt" tvg-name="Globo Premium" tvg-logo="https://s15.postimg.org/55nkqx48b/globo_premium.png" group-title="Canais Abertos",Globo Premium
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/449.ts
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="TV Anhanguera Goiânia" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Canais Abertos",TV Anhanguera Goiânia
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/1445.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band HD" tvg-logo="http://i.imgur.com/1yYrkhc.png" group-title="Canais Abertos",Band HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/193.ts
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band" tvg-logo="http://i.imgur.com/9bw0Q4n.png" group-title="Canais Abertos",Band
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/124.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Canais Abertos",SBT HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/147.ts
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="Canais Abertos",SBT
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/36.ts
+#EXTINF:-1 tvg-id="Record" tvg-name="RecordTV HD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos",RecordTV HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/149.ts
+#EXTINF:-1 tvg-id="Record" tvg-name="RecordTV" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais Abertos",RecordTV
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/41.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV! HD" tvg-logo="http://i.imgur.com/yxGs0mZ.png" group-title="Canais Abertos",RedeTV! HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/148.ts
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="Canais Abertos",RedeTV!
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/39.ts
+#EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="http://i.imgur.com/uwzYiHs.png" group-title="Canais Abertos",Rede Brasil
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/40.ts
+#EXTINF:-1 tvg-id="Gazeta" tvg-name="TV Gazeta HD" tvg-logo="http://i.imgur.com/Or3Q4WA.png" group-title="Canais Abertos",TV Gazeta HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/570.ts
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV Cultura HD" tvg-logo="http://i.imgur.com/kd7IOy7.png" group-title="Canais Abertos",TV Cultura HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/564.ts
+#EXTINF:-1 tvg-id="Cultura" tvg-name="TV Cultura" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="Canais Abertos",TV Cultura
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/8.ts
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="Canais Abertos",Futura
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/91.ts
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="TV Escola HD" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="Canais Abertos",TV Escola HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/565.ts
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="Canais Abertos",TV Brasil
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/9.ts
+#EXTINF:-1 tvg-id="Rede Família" tvg-name="Rede Família HD" tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="Canais Abertos",Rede Família HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/569.ts
+#EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="Canais Abertos",Canal Rural
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/119.ts
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="Canais Abertos",Terra Viva
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/16.ts
+#EXTINF:-1 tvg-id="Canal do Boi" tvg-name="Canal do Boi" tvg-logo="http://i.imgur.com/NKRWvKq.png" group-title="Canais Abertos",Canal do Boi
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/566.ts
+#EXTINF:-1 tvg-id="" tvg-name="Agro Canal" tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="Canais Abertos",Agro Canal
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/568.ts
+#EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV Câmara" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="Canais Abertos",TV Câmara
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/567.ts
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="http://i.imgur.com/if82162.png" group-title="Canais Abertos",NBR
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/63.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="Filmes e Series",Telecine Premium HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/138.ts
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e Series",Telecine Premium
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/18.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="Filmes e Series",Telecine Action HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/141.ts
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Filmes e Series",Telecine Action
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/22.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Filmes e Series",Telecine Touch HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/137.ts
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Series",Telecine Touch
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/17.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="Filmes e Series",Telecine Pipoca HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/139.ts
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Series",Telecine Pipoca
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/19.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="Filmes e Series",Telecine Fun HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/140.ts
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e Series",Telecine Fun
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/20.ts
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Filmes e Series",Telecine Cult
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/21.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="Filmes e Series",HBO HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/165.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Series",HBO
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/84.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="Filmes e Series",HBO 2 HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/167.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Filmes e Series",HBO2
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/79.ts
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus HD" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="Filmes e Series",HBO Plus HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/164.ts
+#EXTINF:-1 tvg-id="HBO Plus Brasil" tvg-name="HBO Plus" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Series",HBO Plus
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/82.ts
+#EXTINF:-1 tvg-id="HBO Plus Panregional" tvg-name="HBO Plus *e" tvg-logo="http://i.imgur.com/rjzeynR.png" group-title="Filmes e Series",HBO Plus *e
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/81.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family HD" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="Filmes e Series",HBO Family HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/166.ts
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Series",HBO Family
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/83.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature HD" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="Filmes e Series",HBO Signature HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/163.ts
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://i.imgur.com/i89AzSA.png" group-title="Filmes e Series",HBO Signature
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/80.ts
+#EXTINF:-1 tvg-id="Max [Brazil]" tvg-name="Max" tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Filmes e Series",Max
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/73.ts
+#EXTINF:-1 tvg-id="Max Up HD [Brazil]" tvg-name="Max UP" tvg-logo="http://i.imgur.com/3Ci9AWu.png" group-title="Filmes e Series",Max UP
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/70.ts
+#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-name="Max Prime" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Series",Max Prime
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/72.ts
+#EXTINF:-1 tvg-id="Max Prime *e [Brazil]" tvg-name="Max Prime *e" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Series",Max Prime *e
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/71.ts
+#EXTINF:-1 tvg-id="Cinemax [Brazil]" tvg-name="Cinemax" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Series",Cinemax
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/115.ts
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX HD" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="Filmes e Series",FOX HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/175.ts
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Filmes e Series",FOX
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/95.ts
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX Premium 1 HD" tvg-logo="http://i.imgur.com/UdWwHl4.png" group-title="Filmes e Series",FOX Premium 1 HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/177.ts
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX Premium 2 HD" tvg-logo="http://i.imgur.com/nX8XMzD.png" group-title="Filmes e Series",FOX Premium 2 HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/176.ts
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="FOX Life HD" tvg-logo="http://i.imgur.com/3vYVugf.png" group-title="Filmes e Series",FOX Life HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/174.ts
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="FOX Life" tvg-logo="http://i.imgur.com/3vYVugf.png" group-title="Filmes e Series",FOX Life
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/94.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Series",FX HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/171.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://i.imgur.com/GaQZSu6.png" group-title="Filmes e Series",FX
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/90.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony HD" tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="Filmes e Series",Canal Sony HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/190.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="Canal Sony" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e Series",Canal Sony
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/118.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/u0NMVSV.png" group-title="Filmes e Series",AXN HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/194.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Filmes e Series",AXN
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/128.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD" tvg-logo="http://i.imgur.com/0qAgY7N.png" group-title="Filmes e Series",Warner Channel HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/580.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Series",Warner Channel
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/2.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Series",Space HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/146.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Series",Space
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/32.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Series",TNT HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/136.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://i.imgur.com/wtLZgX5.png" group-title="Filmes e Series",TNT
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/13.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Séries HD" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Series",TNT Séries HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/135.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Séries" tvg-logo="http://i.imgur.com/ky7Nxh1.png" group-title="Filmes e Series",TNT Séries
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/12.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Series",TBS HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/142.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Series",TBS
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/24.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Filmes e Series",TCM
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/23.ts
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I.Sat" tvg-logo="http://i.imgur.com/L44p3if.png" group-title="Filmes e Series",I.Sat
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/78.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix HD" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Series",Megapix HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/160.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="http://i.imgur.com/LewQb1v.png" group-title="Filmes e Series",Megapix
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/69.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel HD" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Series",Universal Channel HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/134.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Series",Universal Channel
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/5.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="http://i.imgur.com/WnUlcx6.png" group-title="Filmes e Series",Studio Universal
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/26.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Series",Syfy
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/25.ts
+#EXTINF:-1 tvg-id="Mais GloboSat" tvg-name="Mais Globosat" tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Filmes e Series",Mais Globosat
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/74.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Filmes e Series",Canal Brasil
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/120.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://s31.postimg.org/f9lq0eei3/paramount.png" group-title="Filmes e Series",Paramount Channel HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/155.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Series",Paramount
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/57.ts
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Filmes e Series",Prime Box Brazil
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/45.ts
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV HD" tvg-logo="http://i.imgur.com/BpmL4PI.png" group-title="Esportes",SporTV HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/143.ts
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV" tvg-logo="http://i.imgur.com/BpmL4PI.png" group-title="Esportes",SporTV
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/31.ts
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2 HD" tvg-logo="http://i.imgur.com/qDJBu3O.png" group-title="Esportes",SporTV 2 HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/145.ts
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2" tvg-logo="http://i.imgur.com/qDJBu3O.png" group-title="Esportes",SporTV 2
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/30.ts
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="SporTV 3 HD" tvg-logo="http://i.imgur.com/86vWSqY.png" group-title="Esportes",SporTV 3 HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/144.ts
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="SporTV 3" tvg-logo="http://i.imgur.com/86vWSqY.png" group-title="Esportes",SporTV 3
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/28.ts
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="FOX Sports HD" tvg-logo="https://s31.postimg.org/3rvcvwf8b/Fox_Sports.png" group-title="Esportes",FOX Sports HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/173.ts
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="FOX Sports" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",FOX Sports
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/93.ts
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="FOX Sports 2 HD" tvg-logo="http://assets.enterplay.com.br/images/Channels/Original/fox_sports2.png" group-title="Esportes",FOX Sports 2 HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/172.ts
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="FOX Sports 2" tvg-logo="http://i.imgur.com/imNhdzS.png" group-title="Esportes",FOX Sports 2
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/92.ts
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-name="ESPN Brasil HD" tvg-logo="https://s15.postimg.org/osy22irjv/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/180.ts
+#EXTINF:-1 tvg-id="ESPN Brasil [Brazil]" tvg-name="ESPN Brasil" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/98.ts
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN HD" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/179.ts
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/99.ts
+#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-name="ESPN +  HD" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="Esportes",ESPN +  HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/1450.ts
+#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-name="ESPN +" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="Esportes",ESPN +
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/181.ts
+#EXTINF:-1 tvg-id="EI Maxx" tvg-name="EI MAXX HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/182.ts
+#EXTINF:-1 tvg-id="EI Maxx" tvg-name="EI MAXX" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/101.ts
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI MAXX 2 HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX 2 HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/183.ts
+#EXTINF:-1 tvg-id="EI Maxx 2" tvg-name="EI MAXX 2" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",EI MAXX 2
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/100.ts
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo HD" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",Esporte Interativo HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/178.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports HD" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",BandSports HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/192.ts
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",BandSports
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/125.ts
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF HD" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",OFF HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/156.ts
+#EXTINF:-1 tvg-id="Off" tvg-name="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",OFF
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/58.ts
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="http://i.imgur.com/Dt61U19.png" group-title="Esportes",Woohoo
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/1.ts
+#EXTINF:-1 tvg-id="Fish TV" tvg-name="FishTV" tvg-logo="http://i.imgur.com/HXQoT1u.png" group-title="Esportes",FishTV
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/97.ts
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate HD" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/189.ts
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate" tvg-logo="http://i.imgur.com/dOFWcWV.png" group-title="Esportes",Combate
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/114.ts
+#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC Internacional" tvg-logo="http://i.imgur.com/hjUfeVc.png" group-title="Esportes",PFC Internacional
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/588.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Clubes HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/154.ts
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere Clubes
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/46.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 2 HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/153.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 2
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/54.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 3 HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/152.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 3
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/53.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 4 HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/151.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 4
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/52.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 5 HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/150.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 5
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/51.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 6
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/50.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 7
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/49.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8 - Mosaico Jogos" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 8 - Mosaico Jogos
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/48.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 9
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/47.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 11" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 11
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/29.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 10" tvg-logo="http://i.imgur.com/8d0cM31.png" group-title="Esportes",Premiere 10
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/27.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedades e Musicas",GNT HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/169.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedades e Musicas",GNT
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/86.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva HD" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedades e Musicas",Viva HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/133.ts
+#EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedades e Musicas",Viva
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/3.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades e Musicas",Multishow HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/159.ts
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedades e Musicas",Multishow
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/67.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS HD" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedades e Musicas",BIS HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/191.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedades e Musicas",BIS
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/122.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedades e Musicas",MTV
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/68.ts
+#EXTINF:-1 tvg-id="VH1 MegaHits" tvg-name="VH1 MegaHits" tvg-logo="http://i.imgur.com/qgozfSK.png" group-title="Variedades e Musicas",VH1 MegaHits
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/4.ts
+#EXTINF:-1 tvg-id="MixTV" tvg-name="Mix TV" tvg-logo="http://i.imgur.com/uCt1ZhV.png" group-title="Variedades e Musicas",Mix TV
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/572.ts
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brazil" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Variedades e Musicas",Music Box Brazil
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/66.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Variedades e Musicas",Discovery Turbo
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/106.ts
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="https://s32.postimg.org/6wvxqle9x/turbo.png" group-title="Variedades e Musicas",Discovery Turbo HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/185.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Filmes e Series",A&E
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/132.ts
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="http://i.imgur.com/weW9Upy.png" group-title="Variedades e Musicas",TruTV
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/10.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://i.imgur.com/ZekUX7A.png" group-title="Variedades e Musicas",Comedy Central
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/113.ts
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="Investigação Discovery HD" tvg-logo="https://s32.postimg.org/xy559rchx/discoveryid.png" group-title="Variedades e Musicas",Investigação Discovery HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/161.ts
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="Investigação Discovery" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Variedades e Musicas",Investigação Discovery
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/77.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health HD" tvg-logo="http://i.imgur.com/ccfBNRH.png" group-title="Variedades e Musicas",Discovery Home&Health HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/187.ts
+#EXTINF:-1 tvg-id="Discovery Home & Health" tvg-name="Discovery Home&Health" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Variedades e Musicas",Discovery Home&Health
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/109.ts
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://i.imgur.com/2zr2KmL.png" group-title="Variedades e Musicas",Lifetime
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/75.ts
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="http://i.imgur.com/Vkg12Kw.png" group-title="Variedades e Musicas",E!
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/102.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Variedades e Musicas",TLC
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/14.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedades e Musicas",Food Network
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/96.ts
+#EXTINF:-1 tvg-id="Curta!" tvg-name="Curta!" tvg-logo="http://i.imgur.com/Tkm9J8X.png" group-title="Variedades e Musicas",Curta!
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/112.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://i.imgur.com/RyMlI0l.png" group-title="Documentarios",Animal Planet HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/195.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Documentarios",Animal Planet
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/131.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="http://s7.postimg.org/ri6fckurf/u6v_J0_KXt_VCjzrzf_LHqyum_P1ue_Goqcv_DIp7_S4zx_GXNF4x_Tiqk.png" group-title="Documentarios",Discovery Channel HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/188.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://s13.postimg.io/msb5b9u7r/discchannel.png" group-title="Documentarios",Discovery Channel
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/111.ts
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="Discovery Theater HD" tvg-logo="http://i.imgur.com/DHNMh5i.png" group-title="Documentarios",Discovery Theater HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/186.ts
+#EXTINF:-1 tvg-id="Discovery World" tvg-name="Discovery World HD" tvg-logo="http://i.imgur.com/pZLvsXH.png" group-title="Documentarios",Discovery World HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/184.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentarios",Discovery Science
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/107.ts
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Documentarios",Discovery Civilization
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/110.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="Nat Geo HD" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentarios",Nat Geo HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/157.ts
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="Nat Geo" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentarios",Nat Geo
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/64.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Wild HD" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentarios",Nat Geo Wild HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/158.ts
+#EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="Nat Geo Wild" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentarios",Nat Geo Wild
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/65.ts
+#EXTINF:-1 tvg-id="History" tvg-name="History Channel HD" tvg-logo="http://s32.postimg.org/5qqqgpqzl/History_Channel_2.png" group-title="Documentarios",History Channel HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/162.ts
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentarios",History
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/15.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2 HD" tvg-logo="https://s32.postimg.org/hzun1s1md/history2.png" group-title="Documentarios",H2 HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/168.ts
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentarios",H2
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/85.ts
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentarios",Arte 1
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/129.ts
+#EXTINF:-1 tvg-id="GloboNews" tvg-name="GloboNews" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Noticias",GloboNews
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/88.ts
+#EXTINF:-1 tvg-id="BandNews" tvg-name="BandNews" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Noticias",BandNews
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/126.ts
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Noticias",Record News
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/42.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network HD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/127.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="Infantil",Cartoon Network
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/116.ts
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/121.ts
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://i.imgur.com/ggVGWjw.png" group-title="Infantil",Tooncast
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/11.ts
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nick
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/60.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/61.ts
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/103.ts
+#EXTINF:-1 tvg-id="Disney Channel [Brazil]" tvg-name="Disney Channel" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/105.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/104.ts
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://s32.postimg.org/tqw8358qd/discoverykids.png" group-title="Infantil",Discovery Kids
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/108.ts
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/87.ts
+#EXTINF:-1 tvg-id="PlayTV" tvg-name="PlayTV" tvg-logo="http://i.imgur.com/caWgstt.png" group-title="Infantil",PlayTV
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/56.ts
+#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-name="TV Rá Tim Bum" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá Tim Bum
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/7.ts
+#EXTINF:-1 tvg-id="Canção Nova" tvg-name="Cancao Nova" tvg-logo="http://i.imgur.com/QXE03Gx.png" group-title="Religiosos",Cancao Nova
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/117.ts
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="http://i.imgur.com/ywEa7bZ.png" group-title="Religiosos",Rede Vida
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/38.ts
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="http://i.imgur.com/RP0sbkV.png" group-title="Religiosos",TV Aparecida
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/130.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Século 21" tvg-logo="http://i.imgur.com/m7MQIPJ.png" group-title="Religiosos",Rede Século 21
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/574.ts
+#EXTINF:-1 tvg-id="Rede Super" tvg-name="Rede Super" tvg-logo="http://i.imgur.com/l2Fy8cv.png" group-title="Religiosos",Rede Super
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/575.ts
+#EXTINF:-1 tvg-id="RIT" tvg-name="RIT" tvg-logo="http://i.imgur.com/mxBB8c4.png" group-title="Religiosos",RIT
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/37.ts
+#EXTINF:-1 tvg-id="TV Novo Tempo" tvg-name="TV Novo Tempo" tvg-logo="http://i.imgur.com/liOLnFU.png" group-title="Religiosos",TV Novo Tempo
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/59.ts
+#EXTINF:-1 tvg-id="RBI TV" tvg-name="RBI" tvg-logo="http://i.imgur.com/y8YCFOZ.png" group-title="Religiosos",RBI
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/44.ts
+#EXTINF:-1 tvg-id="Ideal TV" tvg-name="Ideal TV" tvg-logo="http://i.imgur.com/MbQrqgu.png" group-title="Religiosos",Ideal TV
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/76.ts
+#EXTINF:-1 tvg-id="SIC Internacional" tvg-name="SIC Internacional" tvg-logo="http://i.imgur.com/GsoX6Ep.png" group-title="Internacionais",SIC Internacional
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/33.ts
+#EXTINF:-1 tvg-id="NHKworld.jp" tvg-name="NHK World" tvg-logo="http://i.imgur.com/97S2U28.png" group-title="Internacionais",NHK World
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/62.ts
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="Playboy TV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adultos",Playboy TV
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/55.ts
+#EXTINF:-1 tvg-id="SexyHot" tvg-name="Sexy Hot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Adultos",Sexy Hot
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/34.ts
+#EXTINF:-1 tvg-id="Sextreme" tvg-name="Sextreme" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Adultos",Sextreme
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/35.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 2000" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Anos 2000
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/552.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 70" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Anos 70
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/546.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 80" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Anos 80
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/545.ts
+#EXTINF:-1 tvg-id="" tvg-name="Anos 90" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Anos 90
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Axé" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Axé
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/535.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bossa Nova" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Bossa Nova
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/555.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brega" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Brega
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/534.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eletrônica" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Eletrônica
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/540.ts
+#EXTINF:-1 tvg-id="" tvg-name="Festa" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Festa
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/539.ts
+#EXTINF:-1 tvg-id="" tvg-name="Forró" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Forró
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/554.ts
+#EXTINF:-1 tvg-id="" tvg-name="Funk" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Funk
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/550.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gospel" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Gospel
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/538.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hip Hop" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Hip Hop
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/537.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jazz" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Jazz
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/536.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kids" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Kids
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/557.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lounge" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Lounge
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/548.ts
+#EXTINF:-1 tvg-id="" tvg-name="Metal" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Metal
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/527.ts
+#EXTINF:-1 tvg-id="" tvg-name="MPB" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",MPB
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/556.ts
+#EXTINF:-1 tvg-id="" tvg-name="Música Clássica" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Música Clássica
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/533.ts
+#EXTINF:-1 tvg-id="" tvg-name="New Rock" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",New Rock
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/532.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pagode" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Pagode
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/553.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pop Hits" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Pop Hits
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/528.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pop Rock" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Pop Rock
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/547.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rap Nacional" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Rap Nacional
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/542.ts
+#EXTINF:-1 tvg-id="" tvg-name="Reggae" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Reggae
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/531.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rock Brasil" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Rock Brasil
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/541.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rock Clássico" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Rock Clássico
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/549.ts
+#EXTINF:-1 tvg-id="" tvg-name="Românticas" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Românticas
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Samba de Raiz" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Samba de Raiz
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/529.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sertanejo" tvg-logo="http://i.imgur.com/vBspzET.png" group-title="Sound!",Sertanejo
+http://mundogf.dyndns.tv:25461/live/douglasramalho10/douglasramalho10/551.ts
